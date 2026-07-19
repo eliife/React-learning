@@ -1,0 +1,33 @@
+.introduce{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#FFF7ED,#FED7AA,#FB923C);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.introduce-container{
+    width: 100%;
+    max-width: 700px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+
+}
+.introduce-btn{
+    width: 200px;
+    height: 50px;
+    font-size: 17px;
+    background-color: #FB923C;
+    color:white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
